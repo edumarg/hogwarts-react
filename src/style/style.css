@@ -1,0 +1,11 @@
+.gradient {
+  background-image: url("../img/mont-saint-michel-sunset-france-europe.png");
+  background-size: cover;
+  background-attachment: fixed;
+  /* background-image: linear-gradient(to bottom right, #FBC12e, #2f6231, #025ed0, #BA2a2a); */
+}
+
+.attribution {
+  text-align: center;
+  background-color: lightgray;
+}
